@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Félix Véjar Zepeda  
-**Data Analyst | Business Intelligence | Data Visualization (Power BI & Tableau)**  
+# ​ Hi, I’m Félix Véjar Zepeda  
+**Data Analyst | Business Intelligence | Data Visualization**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -10,32 +10,32 @@
 
 ---
 
-## 🔧 Tech Stack  
+##  Tech Stack  
 - **Languages:** Python, R, SQL  
 - **BI & Visualization Tools:** Tableau, Power BI, Excel  
 - **Processes:** ETL, data cleaning, cohort & statistical analysis, automation  
 
 ---
 
-## 🚀 Featured Projects  
-
+##  Featured Projects  
 - 🎮 [Video Game Sales Analysis](https://github.com/felixvejar/video-game-data-analysis)  
-  Exploratory data analysis of global video game sales, studying platforms, genres, and the impact of user/critic reviews. Includes statistical testing to identify success patterns.  
-
 - 🚖 [Chicago Taxi Ride Analysis](https://github.com/felixvejar/chicago_taxi_ride_analysis)  
-  Combined **SQL and Python** to analyze taxi ride data, identifying top companies, demand patterns by neighborhood, and testing hypotheses on weather effects.  
-
 - 📈 [Marketing Analytics for Showz](https://github.com/felixvejar/my_first_marketing_analysis)  
-  Evaluated marketing performance using **LTV, CAC, and ROMI**. Conducted cohort analysis and provided recommendations on budget allocation to optimize ROI.  
-
 - 📊 Business Dashboards (Tableau & Power BI)  
-  Automated executive reporting dashboards to monitor KPIs and track market performance in real-time.  
-
 - ⚙️ ETL Processes  
-  Python scripts for cleaning, integrating, and preparing datasets from multiple sources to ensure high-quality analysis.  
 
 ---
 
-## 📫 Get in Touch  
+##  GitHub Stats  
+<!-- Optional: Embed dynamic stats -->
+[![Félix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixvejar&show_icons=true&theme=radical)](https://github.com/felixvejar)
+
+---
+
+##  Get in Touch  
 - 📧 Email: felixvejarzepeda@yahoo.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/felixvejarzepeda/)  
+-  [LinkedIn](https://www.linkedin.com/in/felixvejarzepeda/)
+
+---
+
+If you're interested in any project or would like to collaborate, feel free to reach out!
